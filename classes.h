@@ -4,6 +4,7 @@ enum parameters {EXTERNAL_FORCE_X,EXTERNAL_FORCE_Y, EXTERNAL_FORCE_Z};
 enum sizes {NODES,ELEMENTS,DIRICHLET};
 enum coords {EQUIS,YE,ZETA};
 
+
 class item{
     protected:
         int id;
